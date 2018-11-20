@@ -5,3 +5,4 @@ The well-known game [Minecraft](https://minecraft.net/) inspired to create a Mob
 MobileCraft is based on [Minetest](https://github.com/minetest/minetest/) project.
 
 The engine and the game is licensed under [LGPL-3.0](doc/LGPL-3.0.md) and [Other License.txt](doc/Other License.txt). Resources games licensed under CC-BY-SA 3.0, unless otherwise stated.
+a
