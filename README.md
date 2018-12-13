@@ -14,7 +14,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program; if not, see <https://www.gnu.org/licenses>.
 
-Additional permission under section 7 of the GNU GPL version 3
+Additional permission under section 7 of the GNU GPL version 3.
 
 If you change this program or any work covered by the license, composing or combining it with armeabiv7a (or a modified version of this library) containing the parts covered by GNU LGPL, then the licensors of this program provide you additional permission to transfer the resulting work. {The corresponding source code for the non-source form of such a combination will include the source code of the used parts of the armeabiv7a along with the source text of the work covered by the license.}
 
