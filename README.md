@@ -29,7 +29,7 @@ JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
 
 SDK Platform: from Android 5.0(Lollipop) API Level 21 Rev 2 to Android 9.0(Pie) API Level 28 Rev 6
 
-# Warning!:
+# Warning!
 If when builds an project there will be a problem with the NDK,
 you must install Android NDK r16b instead of the available Android NDK r18b!
 For this, the contents of the folder <c:\Users\<user-name>\AppData\Local\Android\Sdk\ndk-bundle\> should be removed. Instead, paste the contents of the folder <...\android-ndk-r16b\> pre-downloaded NDK.
