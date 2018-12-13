@@ -19,7 +19,7 @@ Additional permission under section 7 of the GNU GPL version 3
 If you change this program or any work covered by the license, composing or combining it with armeabiv7a (or a modified version of this library) containing the parts covered by GNU LGPL, then the licensors of this program provide you additional permission to transfer the resulting work. {The corresponding source code for the non-source form of such a combination will include the source code of the used parts of the armeabiv7a along with the source text of the work covered by the license.}
 
 
-#Project build
+# Project build
 
 To build the project and get the apk file, this version of the integrated development environment (IDE) for Windows-10-64 was used:
 Android Studio 3.2.1
@@ -29,7 +29,7 @@ JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
 
 SDK Platform: from Android 5.0(Lollipop) API Level 21 Rev 2 to Android 9.0(Pie) API Level 28 Rev 6
 
-#Warning!:
+# Warning!:
 If when builds an project there will be a problem with the NDK,
 you must install Android NDK r16b instead of the available Android NDK r18b!
 For this, the contents of the folder <c:\Users\<user-name>\AppData\Local\Android\Sdk\ndk-bundle\> should be removed. Instead, paste the contents of the folder <...\android-ndk-r16b\> pre-downloaded NDK.
