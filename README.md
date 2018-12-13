@@ -38,4 +38,4 @@ The compiled system library 'libsystem_arm.so' is in the directory "...MobileCra
 
 Before you build the project, pack the <Files> folder into the zip archive of the same name in the directory:"...MobileCraft\app\src\main\assets\".
 
-If when creating an APK release there is a problem with signature keys, try removing debug key: "c:\Users\'user-name'\.android\debug.keystore"
+If when creating an APK release there is a problem with signature keys, try removing debug key: "c:\Users\user-name\.android\debug.keystore"
