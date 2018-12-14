@@ -32,7 +32,7 @@ SDK Platform: from Android 5.0(Lollipop) API Level 21 Rev 2 to Android 9.0(Pie) 
 # Warning!
 If when builds an project there will be a problem with the NDK,
 you must install Android NDK r16b instead of the available Android NDK r18b!
-For this, the contents of the folder "c:\Users\user-name\AppData\Local\Android\Sdk\ndk-bundle\" should be removed. Instead, paste the contents of the folder "...\android-ndk-r16b\" pre-downloaded NDK.
+For this, the contents of the folder "c:\Users\user-name\AppData\Local\Android\Sdk\ndk-bundle\" should be removed. Instead, paste the contents of the folder "...\android-ndk-r16b\", downloading the NDK-r16b previously.
 
 The compiled system library 'libsystem_arm.so' is in the directory "...MobileCraft\app\src\main\jniLibs\".
 
